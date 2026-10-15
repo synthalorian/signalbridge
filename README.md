@@ -1,3 +1,5 @@
+![signalbridge](.github/preview.png)
+
 # signalbridge
 
 Tamper-evident local envelopes for agent-to-agent handoffs.
